@@ -1,0 +1,2 @@
+# AutoTranslateSite
+first django project
